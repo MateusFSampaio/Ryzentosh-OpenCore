@@ -1,0 +1,2 @@
+# Ryzentosh-OpenCore
+Working Ryzentosh
