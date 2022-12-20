@@ -6,4 +6,3 @@ MSI B450M Mortar Max <br />
 32GB 3200 Mhz <br />
 RTX 3060 (Disabled) <br />
 GT 710 1GB <br />
-
