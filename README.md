@@ -1,5 +1,5 @@
 # Ryzentosh-OpenCore
-Working Ryzentosh build for OpenCore 0.7.8
+Working Ryzentosh Monterey build for OpenCore 0.7.8
 
 Ryzen 7 5800x <br />
 MSI B450M Mortar Max <br />
